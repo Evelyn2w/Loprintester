@@ -5,86 +5,68 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <p>
-          Visit the latest uk49s lunchtime prediction for today;
-          <code className={styles.code}>app/page.js</code>
-        </p>
+         <a
+            href="https://gosloto.co.za/"
+          >
+            <p>gosloto.co.za</p>
+          </a>
         <div>
           <a
             href="https://lunchtimeprediction.com/"
           >
-            By{' '}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
-              priority
-            />
+            <p>Lunchtime Prediction</p>
           </a>
         </div>
       </div>
 
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
-
       <div className={styles.grid}>
         <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/lunchtime-predictions-for-today"
           className={styles.card}
           target="_blank"
-          rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            Lunchtime Predictions<span>-&gt;</span>
           </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>We are a team of 51 developers that do the test, develop and pulish many blog. We are 
+           highly experienced in the javascript and our create website are mentioned above.</p>
         </a>
 
         <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/teatime-predictions-for-today"
           className={styles.card}
           target="_blank"
-          rel="noopener noreferrer"
         >
           <h2>
-            Learn <span>-&gt;</span>
+            Teatime Predictions <span>-&gt;</span>
           </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
+          <p>Most the search console owners demands to put their website link to the most reputable
+          blogs. So, we have linkback to many websites as well.!</p>
         </a>
 
         <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/uk49s-predictions"
           className={styles.card}
           target="_blank"
-          rel="noopener noreferrer"
         >
           <h2>
-            Templates <span>-&gt;</span>
+            UK49s Predictions <span>-&gt;</span>
           </h2>
-          <p>Explore the Next.js 13 playground.</p>
+          <p>As we a full digital marketing company so we do local seo projects as well. We have served 500+ clients
+          in the last 2 years. Google my business can help to get more traffic if you want work with local clients.</p>
         </a>
 
         <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="/russia-gosloto"
           className={styles.card}
           target="_blank"
-          rel="noopener noreferrer"
         >
           <h2>
-            Deploy <span>-&gt;</span>
+            Russia Gosloto <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.Testing
+            People can find us on the fiverr and upwork that are very reliable and reputed plateform to get any services as well.
+           Welcome to all customers that want to join us. Thank You.
           </p>
         </a>
       </div>
