@@ -21,7 +21,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href="#"
+          href="/"
           className={styles.card}
           target="_blank"
         >
@@ -33,7 +33,7 @@ export default function Home() {
         </a>
 
         <a
-          href="#"
+          href="/"
           className={styles.card}
           target="_blank"
         >
@@ -45,7 +45,7 @@ export default function Home() {
         </a>
 
         <a
-          href="#"
+          href="/"
           className={styles.card}
           target="_blank"
         >
@@ -57,7 +57,7 @@ export default function Home() {
         </a>
 
         <a
-          href="#"
+          href="/"
           className={styles.card}
           target="_blank"
         >
