@@ -21,7 +21,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href="/"
+          href="/lunchtime-predictions-for-today.js"
           className={styles.card}
           target="_blank"
         >
