@@ -24,7 +24,6 @@ export default function Home() {
           href="#"
           className={styles.card}
           target="_blank"
-          rel="noopener noreferrer"
         >
           <h2>
             Digital Marketing <span>-&gt;</span>
@@ -37,7 +36,6 @@ export default function Home() {
           href="#"
           className={styles.card}
           target="_blank"
-          rel="noopener noreferrer"
         >
           <h2>
             Backlink Information <span>-&gt;</span>
@@ -50,7 +48,6 @@ export default function Home() {
           href="#"
           className={styles.card}
           target="_blank"
-          rel="noopener noreferrer"
         >
           <h2>
             Local SEO <span>-&gt;</span>
@@ -63,7 +60,6 @@ export default function Home() {
           href="#"
           className={styles.card}
           target="_blank"
-          rel="noopener noreferrer"
         >
           <h2>
             Fiverr and Upwork <span>-&gt;</span>
